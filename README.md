@@ -154,8 +154,8 @@ use the Dockerfile to create an image
 
 OR
 
-use the image on docker hub
 
+[use the image on docker hub](johnzan/http-response-server)
 ```
 
  docker pull johnzan/http-response-server
