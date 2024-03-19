@@ -200,3 +200,4 @@ For testing I used GoConvey. Install it, then run goconvey from the project dir
 	 docker run -d -p 8080:8080 http-response-server
 ```
 
+<a href="https://www.buymeacoffee.com/johnzan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
